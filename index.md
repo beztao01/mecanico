@@ -9,7 +9,7 @@ Bienvenidos a nuestra materia de Fundamentos de Diseño Mecánico que se imparte
 En esta primera sesión veremos una serie de puntos importante que te mencionará su facilitador.
 
 - [Reloj](https://beztao01.github.io/relok-uvm/)
-- [Calendario.](https://beztao01.github.io/academia/academia/horario2026-02.jpeg)
+- [Calendario.](https://beztao01.github.io/academia/academia/horario2026-02.jpeg)mm
 - El Syllabus
 - El reglamento general de la asignatura
 - [El reglamento de laboratorios](https://beztao01.github.io/documentos/laboratorios.pdf)
