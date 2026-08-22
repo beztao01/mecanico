@@ -4,22 +4,15 @@ title: Referencias
 nav_order: 21
 ---
 
-ACCIONA (Productor). (05 de septiembre de 2018). ¿En qué consiste la economía 
-circular? 
-ACCIONA [Archivo de video]. Recuperado de 
-https://youtu.be/wc_65-yf6zU 
+ACCIONA (Productor). (05 de septiembre de 2018). ¿En qué consiste la economía circular? ACCIONA [Archivo de video]. Recuperado de [https://youtu.be/wc_65-yf6zU](https://youtu.be/wc_65-yf6zU) 
 
-Canale, G. (2016). Manual de diseño para la sustentabilidad [Versión electrónica]. 
-Recuperado de https://elibro.net/es/ereader/uvm/144321 
+Canale, G. (2016). Manual de diseño para la sustentabilidad [Versión electrónica]. Recuperado de [https://elibro.net/es/ereader/uvm/144321](https://elibro.net/es/ereader/uvm/144321)
 
-Conduce tu empresa (Productor). (2020). Ciclo de vida de un producto: Introducción, 
-crecimiento, madurez y declive [Archivo de video]. Recuperado de 
-https://www.youtube.com/watch?v=dvqf-2n8mmM 
+Conduce tu empresa (Productor). (2020). Ciclo de vida de un producto: Introducción, crecimiento, madurez y declive [Archivo de video]. Recuperado de [https://www.youtube.com/watch?v=dvqf-2n8mmM](https://www.youtube.com/watch?v=dvqf-2n8mmM) 
 
 Coordinación de la Investigación Científica (2018). Laboratorio Nacional de 
-Manufactura Aditiva y Digital [Archivo de video]. Recuperado de 
-http://labunam.unam.mx/micrositios/MADiT/ 
- 
+Manufactura Aditiva y Digital [Archivo de video]. Recuperado de [http://labunam.unam.mx/micrositios/MADiT/](http://labunam.unam.mx/micrositios/MADiT/) Revisar enlace
+
 Diseño  y manufactura  digital DMD (Productor). (25 de octubre de 2017). Del diseño 
 a la manufactura dmd SolidWorks [Archivo de video]. Recuperado de 
 https://www.youtube.com/watch?v=mVt1mhJwiSQ 
