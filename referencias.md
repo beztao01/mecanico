@@ -14,8 +14,8 @@ Coordinación de la Investigación Científica (2018). Laboratorio Nacional de
 Manufactura Aditiva y Digital [Archivo de video]. Recuperado de [http://labunam.unam.mx/micrositios/MADiT/](http://labunam.unam.mx/micrositios/MADiT/) Revisar enlace
 
 Diseño  y manufactura  digital DMD (Productor). (25 de octubre de 2017). Del diseño 
-a la manufactura dmd SolidWorks [Archivo de video]. Recuperado de 
-https://www.youtube.com/watch?v=mVt1mhJwiSQ 
+a la manufactura dmd SolidWorks [Archivo de video]. Recuperado de [https://www.youtube.com/watch?v=mVt1mhJwiSQ](https://www.youtube.com/watch?v=mVt1mhJwiSQ )
+
 
 Diseño e invención (Productor). (10 de julio de 2020). APRENDE A UTILIZAR 
 SOLIDWORKS DESDE CERO, Tutorial para principiantes 1 [Archivo de video]. 
