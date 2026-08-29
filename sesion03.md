@@ -9,7 +9,9 @@ nav_order: 4
 ## Software
 - Platicarles a los inges de Anna
 - Primeras prácticas de Freecad
-- [Sistema americano de dibujo y sistema Europeo de dibujo ](https://www.areatecnologia.com/TUTORIALES/VISTAS%20EUROPEO%20Y%20AMERICANO.htm)
+- Portable Apps en ejecutable se encuentra en los contenidos de la material de clase de teams
+- [Ruta en portable apps para ejecutar freecad](./assets/images/ruta.png)
+- [Sistema americano de dibujo y sistema europeo de dibujo ](https://www.areatecnologia.com/TUTORIALES/VISTAS%20EUROPEO%20Y%20AMERICANO.htm)
 
 ## Blackboard
 
