@@ -22,4 +22,6 @@ nav_order: 3
 
 ## Blackboard
 
+- Revisar en plataforma: Se entrega **Actividad 1** Mapa Mental fecha limite 31-08-26
+
 Todas las actividades se entregan a las 3:00 am los días lunes.
