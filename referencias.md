@@ -140,5 +140,8 @@ http://www.bibliotecas.uvmnet.edu/
 
 - [FreeCAD - Symbols and Views in the TechDraw Workbench JOKO ENGINEERING](https://youtu.be/cggBR1Ghq7k?si=KBXOb8YJbW8n0fYl)
 
+- [Part Modeling & Drafting in FreeCAD FreeCAD Drawing 3D Modeling Learn FreeCAD Mechnexus ](https://youtu.be/uca3SLq20XQ?si=mhy4I68hBAlygHJ5)
+
+
 
 
