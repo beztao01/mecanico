@@ -4,6 +4,8 @@ title: Referencias
 nav_order: 21
 ---
 
+## Referencias
+
 ACCIONA (Productor). (05 de septiembre de 2018). ¿En qué consiste la economía circular? ACCIONA [Archivo de video]. Recuperado de [https://youtu.be/wc_65-yf6zU](https://youtu.be/wc_65-yf6zU) 
 
 Canale, G. (2016). Manual de diseño para la sustentabilidad [Versión electrónica]. Recuperado de [https://elibro.net/es/ereader/uvm/144321](https://elibro.net/es/ereader/uvm/144321)
@@ -20,31 +22,33 @@ a la manufactura dmd SolidWorks [Archivo de video]. Recuperado de [https://www.y
 Diseño e invención (Productor). (10 de julio de 2020). APRENDE A UTILIZAR 
 SOLIDWORKS DESDE CERO, Tutorial para principiantes 1 [Archivo de video]. 
 Recuperado 
-de 
-https://www.youtube.com/watch?v=t5jYybvAShc&ab_channel=RobinSarmie
-ntoRobinSarmiento 
+de [https://www.youtube.com/watch?v=t5jYybvAShc&ab_channel=RobinSarmie
+ntoRobinSarmiento](https://www.youtube.com/watch?v=t5jYybvAShc&ab_channel=RobinSarmie
+ntoRobinSarmiento)
+
 
 EcoHuellasTV (Productor). (06 de diciembre de 2010). Ciclo de vida del celular 
 [Archivo 
 de 
 video]. 
-Recuperado 
-https://www.youtube.com/watch?v=40jRgu0wGUk 
-de 
+Recuperado [https://www.youtube.com/watch?v=40jRgu0wGUk 
+de ](https://www.youtube.com/watch?v=40jRgu0wGUk 
+de ) 
+
 
 Espinoza, G, y Romero, J. (2016). Innovación y diseño para la estrategia empresarial 
 [Versión 
-electrónica]. 
-https://elibro.net/es/ereader/uvm/45358 
+electrónica]. [https://elibro.net/es/ereader/uvm/45358 ](https://elibro.net/es/ereader/uvm/45358 )  parece que en enlace no esta habilitado
+
 Recuperado 
 de 
 
-Gómez, C. (2021). México, hacia la economía circular por la ecología, La Jornada, pp. 
- 
-Recuperado 
-https://www.jornada.com.mx/2021/01/25/sociedad/031n1soc 
+Gómez, C. (2021). México, hacia la economía circular por la ecología, La Jornada, pp. Recuperado [https://www.jornada.com.mx/2021/01/25/sociedad/031n1soc 
 de 
-13 
+13 ](https://www.jornada.com.mx/2021/01/25/sociedad/031n1soc 
+de 
+13 ) parece que en enlace no esta habilitado
+
 
 Groover, M. (2007). Fundamentos de manufactura moderna [Versión electrónica]. 
 Recuperado 
@@ -131,3 +135,10 @@ Universidad del Valle de México (2021). PracticasSolidWorks [Archivo ZIP].
 
 Biblioteca digital Universidad del Valle de México. Recuperado de 
 http://www.bibliotecas.uvmnet.edu/
+
+## Sugerencias de Sandoval
+
+- [FreeCAD - Symbols and Views in the TechDraw Workbench JOKO ENGINEERING](https://youtu.be/cggBR1Ghq7k?si=KBXOb8YJbW8n0fYl)
+
+
+
