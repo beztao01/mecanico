@@ -4,7 +4,7 @@ title: Referencias
 nav_order: 21
 ---
 
-## Referencias
+# Referencias
 
 ACCIONA (Productor). (05 de septiembre de 2018). ¿En qué consiste la economía circular? ACCIONA [Archivo de video]. Recuperado de [https://youtu.be/wc_65-yf6zU](https://youtu.be/wc_65-yf6zU) 
 
@@ -141,6 +141,8 @@ http://www.bibliotecas.uvmnet.edu/
 - [FreeCAD - Symbols and Views in the TechDraw Workbench JOKO ENGINEERING](https://youtu.be/cggBR1Ghq7k?si=KBXOb8YJbW8n0fYl)
 
 - [Part Modeling & Drafting in FreeCAD FreeCAD Drawing 3D Modeling Learn FreeCAD Mechnexus ](https://youtu.be/uca3SLq20XQ?si=mhy4I68hBAlygHJ5)
+
+- [Make Custom Header on Technical Drawing using FreeCAD and Inkscape](https://youtu.be/LhZvu74DX00?si=du9FhB3oM5ranpyZ)
 
 
 
