@@ -5,6 +5,11 @@ nav_order: 13
 ---
 
 # Sesión 12
+ Transformation features
+
+ - Linear pattern
+ - Polar pattern
+ - Multi Trensform
 
 ## Blackboard
 
