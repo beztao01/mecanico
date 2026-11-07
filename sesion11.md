@@ -7,6 +7,10 @@ nav_order: 11
 # Sesión 11
 - [Emblema de VW freecad 1.1.3](https://youtu.be/GJkObgHYFu8)
 - [Emblema de Batman 1.1.3](https://youtu.be/POKzpA1ElW0)
+- [Ejercicio de Simetria](https://youtu.be/2rCt0dEwpmI?si=pW0TEMjPFQrbTsvT)
+- [Emblema Android](https://www.youtube.com/watch?v=KaKwT_vRst8)
+- [Copa](https://youtu.be/NMlH5cT8sKk)
+
 
 ## Blackboard
 
