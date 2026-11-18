@@ -6,5 +6,7 @@ nav_order: 20
 
 # Sesión 19
 
+- Tercer parcial
+
 ## Blackboard
 Todas las actividades se entregan los lunes a las 3:00 am
