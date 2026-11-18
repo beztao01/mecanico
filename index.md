@@ -12,6 +12,7 @@ Bienvenidos a nuestra materia de Fundamentos de Diseño Mecánico que se imparte
 >   revisar sesión 02 y sesión 03
 > </div>
 
+> 📢 **¡ANUNCIO IMPORTANTE!**
 > <div style="background-color: #3b3a3d; color: #e6e1e8; padding: 15px; border-left: 6px solid #5ea1fb; border-radius: 5px;">
 >   **Actualizaciones** 18-11-26 Se acaban de agregar las actividades de BB en la sesióin 14 a 20. 
 > </div>
