@@ -7,4 +7,7 @@ nav_order: 17
 # Sesión 16
 
 ## Blackboard
-Todas las actividades se entregan los lunes a las 3:00 am
+
+- Actividad 12 Ejercicio.
+  
+Todas las actividades se entregan los lunes a las 3:00 am.
