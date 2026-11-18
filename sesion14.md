@@ -9,4 +9,5 @@ nav_order: 15
 Firma de actas
 
 ## Blackboard
+- Actividad 10 Ejercicio
 Todas las actividades se entregan los lunes a las 3:00 am
