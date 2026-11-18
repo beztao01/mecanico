@@ -8,6 +8,6 @@ nav_order: 16
 
 ## Blackboard
 
--Actividad 11 Ejercicio.
+- Actividad 11 Ejercicio.
 
 Todas las actividades se entregan los lunes a las 3:00 am.
